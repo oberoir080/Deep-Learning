@@ -36,8 +36,7 @@ This repository contains my submissions for the Deep Learning course assignments
 ---
 
 ### A3 (DLA3_SSIM.ipynb)
-- Further experiments and visualizations using SSIM metrics are included.  
-- Explored improvements in SSIM-based evaluation beyond A2 results.
+- Explored generations by creating a **Conditional GAN (cGAN) from scratch**.  
 
 ---
 
